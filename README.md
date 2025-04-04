@@ -1,5 +1,6 @@
 <!-- Encabezado estilizado con gif -->
-<img src="[https://i.pinimg.com/736x/f6/52/b4/f652b4aa020ed9565dda599b98932271.jpg(https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif)](https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif)" width="100%" />
+<img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="100%" />
+
 ![Cat Gif](https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif)
 
 <img alt="Wave" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" align="left"/>
@@ -11,7 +12,7 @@
 
 🎮 &nbsp;Sometimes I game, sometimes I code, sometimes nothing.  
 💻 &nbsp;DAM student surviving to Arrays.   
-⚙️ &nbsp;I only break code don't ask for nothing.
+⚙️ &nbsp;I only break code, don't ask for nothing.  
 🐈‍⬛ &nbsp;Black cats.
 
 <img alt="Cat Coding" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" align="right" width="200"/>
@@ -34,7 +35,6 @@
 
 ---
 <!--
-
 <p>
 <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tuusuario/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

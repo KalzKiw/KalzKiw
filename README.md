@@ -8,11 +8,10 @@
 
 ### 👾 &nbsp;About Me
 
-🎮 &nbsp;Sometimes I game, mostly I code.  
-💻 &nbsp;DAM student surviving on coffee and terminal commands.  
-📈 &nbsp;Trying to go from 'hello world' to 'hello job offer'.  
-⚙️ &nbsp;Optimizing workflows, breaking code just to fix it better.  
-🐈‍⬛ &nbsp;Black cats are not just pets—they’re coding familiars.
+🎮 &nbsp;Sometimes I game, sometimes I code, sometimes nothing.  
+💻 &nbsp;DAM student surviving to Arrays.   
+⚙️ &nbsp;I only break code don't ask for nothing.
+🐈‍⬛ &nbsp;Black cats.
 
 <img alt="Cat Coding" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" align="right" width="200"/>
 

@@ -1,8 +1,6 @@
 <!-- Encabezado estilizado con gif -->
 <img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="100%" />
 
-![Cat Gif](https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif)
-
 <img alt="Wave" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" align="left"/>
 <h2>Hey there! I'm Kalz</h2>
 

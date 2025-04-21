@@ -30,7 +30,6 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9146fddf-3320-4459-bb4b-2a85bec6e3b1/deploy-status)](https://app.netlify.com/sites/kalz/deploys)
 
 ---
 <!--

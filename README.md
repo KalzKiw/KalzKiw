@@ -34,6 +34,33 @@
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white)
 
 ---
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=kalzkiw&theme=react&show_icons=true&hide_border=true&count_private=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=kalzkiw&theme=react&hide_border=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzkiw&theme=react&show_icons=true&hide_border=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
 <!--
 <p>
 <a href="mailto:tuemail@ejemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>

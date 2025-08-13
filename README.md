@@ -9,9 +9,11 @@
 ### 👾 &nbsp;About Me
 
 🎮 &nbsp;Sometimes I game, sometimes I code, sometimes nothing.  
-💻 &nbsp;DAM student surviving to Arrays.   
+💻 &nbsp;DAM student on the path to FullStack with a strong focus on cybersecurity.
 ⚙️ &nbsp;I only break code, don't ask for nothing.  
-🐈‍⬛ &nbsp;Black cats.
+🖥️ &nbsp; I use Arch Linux btw.  
+
+
 
 <img alt="Cat Coding" src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" align="right" width="200"/>
 

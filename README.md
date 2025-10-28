@@ -15,7 +15,7 @@ After years in operations and management, I learned to spot inefficiencies — n
 - 💡 I specialize in turning operational chaos into precise, reliable software solutions.
 - 🧠 Constantly improving with **React, Java, JavaScript, and PostgreSQL**.  
 - 🖥️ ...and yes, I use **Arch Linux btw**.  
-- 🗂️ Portfolio: [kalz.netlify.app](https://kalz.netlify.app)
+- [PORTFOLIO🗂️](https://kalz.netlify.app)
 
 ---
 

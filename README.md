@@ -32,12 +32,12 @@ After years in operations and management, I learned to spot inefficiencies — n
         <a href="https://kalz.netlify.app/proyectos/clariveye" target="_blank"><img src="https://img.shields.io/badge/View%20Case%20Study-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
       </td>
       <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
-        <h3>⏱️ <a href="https://kalz.netlify.app/proyectos/timetotag">TimeToTag</a></h3>
-        <p>Smart solution for managing perishable products — tracking expiration and thawing times with precision.</p>
-        <p><b>Key Features</b><br>⏰ Smart timers per product<br>🏷️ Automatic QR label generation<br>📱 Mobile interface for scanning and tracking<br>📊 Dashboard with usage stats and alerts</p>
-        <p><b>Impact</b><br>🔹 95% reduction in labeling errors<br>🔹 Full product traceability<br>🔹 Automated notifications before expiration</p>
-        <a href="https://kalz.netlify.app/proyectos/timetotag" target="_blank"><img src="https://img.shields.io/badge/View%20Case%20Study-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
-      </td>
+    <h3>🔍 <a href="https://kalz.netlify.app/proyectos/clarivscan">ClarivScan</a></h3>
+    <p>Tactical PWA for digitizing inventory via OCR — turning smartphones into intelligent scanning terminals.</p>
+    <p><b>Key Features</b><br>👁️ Advanced OCR Engine & Custom Parser<br>🚀 Client-First Logic (Zero-Latency)<br>🗺️ Rack Mapping & Spatial Tracking<br>📂 JSON Workflow for Zone Consolidation</p>
+    <p><b>Impact</b><br>🔹 Eliminates manual transcription errors<br>🔹 Drastic reduction in operator fatigue<br>🔹 Instant deployment without infrastructure</p>
+    <a href="https://kalz.netlify.app/proyectos/clarivscan" target="_blank"><img src="https://img.shields.io/badge/View%20Case%20Study-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+  </td>
     </tr>
   </table>
 </div>

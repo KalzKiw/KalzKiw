@@ -13,7 +13,7 @@ I'm a **FullStack Developer in progress** and **Software Development student (DA
 After years in operations and management, I learned to spot inefficiencies — now, I code the solutions.
 
 - 💡 I specialize in turning operational chaos into precise, reliable software solutions.
-- 🧠 Constantly improving with **React, Java, JavaScript, and PostgreSQL**.  
+- 🧠 Constantly improving with **React, Java, and PostgreSQL**.  
 - 🖥️ ...and yes, I use **Arch Linux btw**.  
 - [PORTFOLIO🗂️](https://kalz.netlify.app)
 

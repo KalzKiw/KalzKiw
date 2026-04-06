@@ -9,13 +9,16 @@
 
 <img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" align="right" width="200"/>
 
-I'm a **FullStack Developer in progress** and **Software Development student (DAM)** passionate about turning everyday chaos into clean, functional code.  
-After years in operations and management, I learned to spot inefficiencies — now, I code the solutions.
+**Product-Focused Full Stack Developer**
 
-- 💡 I specialize in turning operational chaos into precise, reliable software solutions.
-- 🧠 Constantly improving with **React, Java, and PostgreSQL**.  
-- 🖥️ ...and yes, I use **Arch Linux btw**.  
-- [PORTFOLIO🗂️](https://kalz.netlify.app)
+I don't just write syntax; I build systems that remove operational friction and save time. 
+With a background in operations and a recent Dev Team integration in **Dublin, Ireland** 🇮🇪, my focus is on delivering real business value through automation and resilient architecture.
+
+- 💡 **Product & Automation:** I specialize in turning everyday chaos into precise, reliable software.
+- 📉 **Real Impact:** Built tools that reduced inventory times by **>60%** and automated daily logistics operations.
+- 🧠 **Tech Stack:** Building robust solutions with **React, TypeScript, Java, and PostgreSQL**.
+- 🐧 ...and yes, I use **Arch Linux btw**.
+- [PORTFOLIO & BLOG 🗂️](https://kalzdev.vercel.app/)
 
 ---
 
@@ -25,18 +28,18 @@ After years in operations and management, I learned to spot inefficiencies — n
   <table>
     <tr>
       <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
-        <h3>🧭 <a href="https://kalz.netlify.app/proyectos/clariveye">ClarivEye</a></h3>
+        <h3>🧭 <a href="https://kalzdev.vercel.app/proyectos/clariveye">ClarivEye</a></h3>
         <p>A platform that digitalizes and optimizes internal order management: centralized tracking, optimized routes, metric dashboards, and reduced operational errors.</p>
         <p><b>Key Features</b><br>📊 Advanced statistics with interactive charts<br>🧾 Automatic PDF report generation<br>🚚 One-click route sheets ready to print or share<br>📦 Full control over all added orders</p>
         <p><b>Impact</b><br>🔹 Real-world use in professional environments<br>🔹 Time and human resources optimization<br>🔹 Accurate delivery and performance metrics</p>
-        <a href="https://kalz.netlify.app/proyectos/clariveye" target="_blank"><img src="https://img.shields.io/badge/View%20Case%20Study-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+        <a href="https://kalzdev.vercel.app/proyectos/clariveye" target="_blank"><img src="https://img.shields.io/badge/View%20Case%20Study-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
       </td>
       <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
-    <h3>🔍 <a href="https://kalz.netlify.app/proyectos/clarivscan">ClarivScan</a></h3>
+    <h3>🔍 <a href="https://kalzdev.vercel.app/proyectos/clarivscan">ClarivScan</a></h3>
     <p>Tactical PWA for digitizing inventory via OCR — turning smartphones into intelligent scanning terminals.</p>
     <p><b>Key Features</b><br>👁️ Advanced OCR Engine & Custom Parser<br>🚀 Client-First Logic (Zero-Latency)<br>🗺️ Rack Mapping & Spatial Tracking<br>📂 JSON Workflow for Zone Consolidation</p>
-    <p><b>Impact</b><br>🔹 Eliminates manual transcription errors<br>🔹 Drastic reduction in operator fatigue<br>🔹 Instant deployment without infrastructure</p>
-    <a href="https://kalz.netlify.app/proyectos/clarivscan" target="_blank"><img src="https://img.shields.io/badge/View%20Case%20Study-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
+    <p><b>Impact</b><br>🔹 <b>Reduced inventory processing time by >60%</b><br>🔹 Eliminates manual transcription errors<br>🔹 Instant deployment without infrastructure</p>
+    <a href="https://kalzdev.vercel.app/proyectos/clarivscan" target="_blank"><img src="https://img.shields.io/badge/View%20Case%20Study-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
   </td>
     </tr>
   </table>
@@ -48,15 +51,17 @@ After years in operations and management, I learned to spot inefficiencies — n
 ### ⚙️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Turso-4DF8D5?style=for-the-badge&logo=turso&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 </p>
 
@@ -66,7 +71,7 @@ After years in operations and management, I learned to spot inefficiencies — n
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alejandrosilvaa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kalz.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="https://kalzdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="mailto:alejandrobrito31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 

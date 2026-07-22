@@ -1,90 +1,147 @@
-<img src="https://i.pinimg.com/originals/f5/cc/88/f5cc882eaa11aff3d06e02ebd6dbe4aa.gif" width="100%" />
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" align="left" />
-<h2>Hey! I'm Alejandro (Kalz) 👨‍💻</h2>
-
----
-
-### 🚀 About Me
-
-<img src="https://i.pinimg.com/originals/80/7b/5c/807b5c4b02e765bb4930b7c66662ef4b.gif" align="right" width="200"/>
-
-**Product-Focused Full Stack Developer**
-
-I don't just write syntax; I build systems that remove operational friction and save time. 
-With a background in operations and a recent Dev Team integration in **Dublin, Ireland** 🇮🇪, my focus is on delivering real business value through automation and resilient architecture.
-
-- 💡 **Product & Automation:** I specialize in turning everyday chaos into precise, reliable software.
-- 📉 **Real Impact:** Built tools that reduced inventory times by **>60%** and automated daily logistics operations.
-- 🧠 **Tech Stack:** Building robust solutions with **React, TypeScript, Java, and PostgreSQL**.
-- 🐧 ...and yes, I use **Arch Linux btw**.
-- [PORTFOLIO & BLOG 🗂️](https://kalzdev.vercel.app/)
-
----
-
-### 🏆 Featured Projects
+<!--
+  GitHub Profile README — KalzKiw
+  Tip: preview on github.com/KalzKiw after pushing to main
+-->
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
-        <h3>🧭 <a href="https://kalzdev.vercel.app/proyectos/clariveye">ClarivEye</a></h3>
-        <p>A platform that digitalizes and optimizes internal order management: centralized tracking, optimized routes, metric dashboards, and reduced operational errors.</p>
-        <p><b>Key Features</b><br>📊 Advanced statistics with interactive charts<br>🧾 Automatic PDF report generation<br>🚚 One-click route sheets ready to print or share<br>📦 Full control over all added orders</p>
-        <p><b>Impact</b><br>🔹 Real-world use in professional environments<br>🔹 Time and human resources optimization<br>🔹 Accurate delivery and performance metrics</p>
-        <a href="https://kalzdev.vercel.app/proyectos/clariveye" target="_blank"><img src="https://img.shields.io/badge/View%20Case%20Study-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
-      </td>
-      <td align="center" width="50%" style="vertical-align: top; padding: 10px;">
-    <h3>🔍 <a href="https://kalzdev.vercel.app/proyectos/clarivscan">ClarivScan</a></h3>
-    <p>Tactical PWA for digitizing inventory via OCR — turning smartphones into intelligent scanning terminals.</p>
-    <p><b>Key Features</b><br>👁️ Advanced OCR Engine & Custom Parser<br>🚀 Client-First Logic (Zero-Latency)<br>🗺️ Rack Mapping & Spatial Tracking<br>📂 JSON Workflow for Zone Consolidation</p>
-    <p><b>Impact</b><br>🔹 <b>Reduced inventory processing time by >60%</b><br>🔹 Eliminates manual transcription errors<br>🔹 Instant deployment without infrastructure</p>
-    <a href="https://kalzdev.vercel.app/proyectos/clarivscan" target="_blank"><img src="https://img.shields.io/badge/View%20Case%20Study-00C7B7?style=for-the-badge&logo=rocket&logoColor=white"/></a>
-  </td>
-    </tr>
-  </table>
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28" alt="" />
+  <h1>Hey, I'm Alejandro — aka <strong>Kalz</strong></h1>
+  <p>
+    <strong>Product-focused Full Stack Developer</strong> · Dublin, Ireland 🇮🇪<br/>
+    I build systems that remove operational friction and turn chaos into reliable software.
+  </p>
+  <p>
+    <a href="https://kalzdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=00C7B7" alt="Portfolio"/></a>
+    <a href="https://www.linkedin.com/in/alejandrosilvaa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:alejandrobrito31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  </p>
 </div>
 
+---
+
+### About me
+
+I don't just write syntax — I ship tools that save hours in real operations.  
+Background in logistics + recent Dev Team integration in **Dublin**. Focus: automation, resilient architecture, and measurable business impact.
+
+| | |
+|:--|:--|
+| **Impact** | Tools that cut inventory time by **>60%** and automated daily logistics |
+| **Stack** | React · TypeScript · Next.js · Java · PostgreSQL · Supabase |
+| **Mindset** | Product first, ops-aware, ship what actually gets used |
+| **OS** | Arch Linux btw 🐧 |
 
 ---
 
-### ⚙️ Tech Stack
+### Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://kalzdev.vercel.app/proyectos/clariveye">ClarivEye</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=black" alt="Supabase"/>
+      </p>
+      <p>
+        Platform that digitizes internal order management: centralized tracking,
+        optimized routes, metric dashboards, and fewer operational errors.
+      </p>
+      <details>
+        <summary><b>Features & impact</b></summary>
+        <br/>
+        <ul>
+          <li>Interactive stats & charts</li>
+          <li>Automatic PDF reports</li>
+          <li>One-click printable route sheets</li>
+          <li>Full order lifecycle control</li>
+        </ul>
+        <p>
+          Used in real professional environments · optimizes time & headcount ·
+          accurate delivery metrics
+        </p>
+      </details>
+      <p align="center">
+        <a href="https://kalzdev.vercel.app/proyectos/clariveye">
+          <img src="https://img.shields.io/badge/View_case_study-00C7B7?style=for-the-badge" alt="ClarivEye case study"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://kalzdev.vercel.app/proyectos/clarivscan">ClarivScan</a>
+      </h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/PWA-5A0FC8?style=flat-square&logo=pwa&logoColor=white" alt="PWA"/>
+        <img src="https://img.shields.io/badge/OCR-111827?style=flat-square" alt="OCR"/>
+        <img src="https://img.shields.io/badge/Client--first-0EA5E9?style=flat-square" alt="Client-first"/>
+      </p>
+      <p>
+        Tactical PWA for inventory via OCR — turns smartphones into intelligent
+        scanning terminals with zero-latency, client-first logic.
+      </p>
+      <details>
+        <summary><b>Features & impact</b></summary>
+        <br/>
+        <ul>
+          <li>OCR engine + custom parser</li>
+          <li>Rack mapping & spatial tracking</li>
+          <li>JSON workflow for zone consolidation</li>
+          <li>Instant deploy, no heavy infra</li>
+        </ul>
+        <p>
+          <b>>60% faster</b> inventory processing · no more manual transcription ·
+          deploy anywhere
+        </p>
+      </details>
+      <p align="center">
+        <a href="https://kalzdev.vercel.app/proyectos/clarivscan">
+          <img src="https://img.shields.io/badge/View_case_study-00C7B7?style=for-the-badge" alt="ClarivScan case study"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### Tech stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Turso-4DF8D5?style=for-the-badge&logo=turso&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Turso-4DF8D5?style=for-the-badge&logo=turso&logoColor=black" alt="Turso"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux"/>
 </p>
 
 ---
 
-### 📬 Let's Connect
+### GitHub activity
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alejandrosilvaa"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kalzdev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=firefox&logoColor=white"/></a>
-  <a href="mailto:alejandrobrito31@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kalzkiw&theme=react&show_icons=true&hide_border=true&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kalzkiw&theme=react&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kalzkiw&theme=react&show_icons=true&hide_border=true&layout=compact" width="40%"/>
-</p>
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KalzKiw&theme=react&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Kalz GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=KalzKiw&theme=react&hide_border=true" alt="Kalz streak"/>
+  <br/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KalzKiw&theme=react&hide_border=true&layout=compact&langs_count=8" alt="Top languages"/>
+</div>
 
 ---
 
-> “Prefiero picar código que piedra⛏️” — Kalz 🧠
+<div align="center">
+
+> *“Prefiero picar código que piedra.”* — **Kalz**
+
+</div>

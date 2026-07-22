@@ -79,6 +79,9 @@ Visité sedes de Amazon, Microsoft y MongoDB, y conocí el estándar de la indus
           pagos y KDS en tiempo real (PWA + APK).
         </p>
         <p><b>Stack:</b> PWA · KDS · Stripe · Supabase</p>
+        <a href="https://cafeteria-solo-demo.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Probar_demo-FF6B35?style=for-the-badge&logo=rocket&logoColor=white" alt="Demo KOMO"/>
+        </a>
       </td>
       <td align="center" width="50%" valign="top">
         <h3>⏱️ <a href="https://kalzdev.vercel.app/proyectos/timetotag">TimeToTag</a></h3>
